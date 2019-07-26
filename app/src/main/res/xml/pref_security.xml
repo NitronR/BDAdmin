@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <mapps.com.bdadmin.PasswordDialogPref
+        android:key="pass_pref"
+        android:title="Change password"
+        android:summary="Change the current password required for admin login." />
+
+</PreferenceScreen>
